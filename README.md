@@ -1,7 +1,10 @@
-GiveawayBoat varsayılan olarak herhangi bir veri saklamaz.
-Sunucu Yönetme iznine sahip bir sunucu üyesi botun  çekiliş açmak için  komut kullanırsa,açan kullanıcının idsi (üye kimliği) sağlanan çekiliş birlikte botun veritabanında saklanacaktır.
+CrazyBot Sunucu Verileri, Kanal Verileri, Kullanıcı verileri ve Rol Verileri saklanabilmektedir.
+ 
+ bu verilerı Kanal kimlikleri moderasyon (günlük kanalı, gelen giden kanal vb.) sunucu için.
 
-Bunun nedeni ise,biri çekiliş açtığında bitirdiğinde yeniden kazanan seçmesi için databaseden veri çekilmesi gereklidir.
+Rol Kimlikleri, moderasyon (otomatik rol, kayıt rol vb.) için saklanmaktadır.
+
+verileriniz hiçbir şekilde başkalarıyla paylaşılamaz! ve bot developerine ulaşılması taktirde verileriniz silinebilir
 
                  Kullanıcıların Hakları
 1. Bilgilendirme hakkı
